@@ -8,9 +8,9 @@ import Thirdpage from './Components/Thirdpage'
 
 function App() {
   return (
-    // < Firstpage/>
+    < Firstpage/>
     // <Secondpage/>
-    <Thirdpage/>
+    // <Thirdpage/>
   );
 }
 
